@@ -1,0 +1,22 @@
+{
+  "name": "moblie",
+  "version": "1.0.0",
+  "description": "'移动端h5'",
+  "main": "index.js",
+  "scripts": {
+    "test": "just do it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CREATIVEMELODY/Mobile.git"
+  },
+  "keywords": [
+    "mobile"
+  ],
+  "author": "Melody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CREATIVEMELODY/Mobile/issues"
+  },
+  "homepage": "https://github.com/CREATIVEMELODY/Mobile#readme"
+}
