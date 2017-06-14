@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/CREATIVEMELODY/Mobile/issues"
   },
-  "homepage": "https://github.com/CREATIVEMELODY/Mobile#readme"
+  "homepage": "https://github.com/CREATIVEMELODY/Mobile#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
 }
